@@ -1,0 +1,33 @@
+{"Server":[
+  {"Name":"CMS1","IP":"192.168.10.12","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"CMS2","IP":"192.168.10.13","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"DB1","IP":"192.168.10.22","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"DB2","IP":"192.168.10.23","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"TC1","IP":"192.168.10.31","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"TC2","IP":"192.168.10.32","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"TC3","IP":"192.168.10.33","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"TC4","IP":"192.168.10.34","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"CA1","IP":"192.168.10.41","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"CA2","IP":"192.168.10.42","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"TM1","IP":"192.168.10.43","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"TM2","IP":"192.168.10.44","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"TM3","IP":"192.168.10.45","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"TM4","IP":"192.168.10.46","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"TM5","IP":"192.168.10.44","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"TM6","IP":"192.168.10.44","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"DIVA1","IP":"192.168.10.82","ID":"Administrator","Pass":"tbs#`1qazxcv"},
+  {"Name":"DIVA2","IP":"192.168.10.83","ID":"Administrator","Pass":"tbs#`1qazxcv"},
+  {"Name":"QC1","IP":"192.168.10.61","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"QC2","IP":"192.168.10.62","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"IF1","IP":"192.168.20.32","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"IF2","IP":"192.168.20.33","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"AD1","IP":"192.168.20.12","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"AD2","IP":"192.168.20.13","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"SH1","IP":"192.168.20.22","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"SH2","IP":"192.168.20.23","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"WAS1","IP":"192.168.30.12","ID":"Administrator","Pass":"`1qazxcv"},
+  {"Name":"WAS2","IP":"192.168.30.13","ID":"Administrator","Pass":"`1qazxcv"}
+]
+  }
+
+

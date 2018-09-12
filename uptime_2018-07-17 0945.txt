@@ -1,0 +1,33 @@
+Uptime Listup
+Recoreded at 2018-07-17 09:45:14.427576
+
+('Server Name is CMS1 ', 'address is 192.168.10.12', 'and uptime is 19 days, 21:02:24.995121')
+('Server Name is CMS2 ', 'address is 192.168.10.13', 'and uptime is 20 days, 5:30:17.110215')
+('Server Name is DB1 ', 'address is 192.168.10.22', 'and uptime is 62 days, 0:36:59.669297')
+('Server Name is DB2 ', 'address is 192.168.10.23', 'and uptime is 62 days, 0:08:41.710873')
+('Server Name is TC1 ', 'address is 192.168.10.31', 'and uptime is 10 days, 7:52:55.776445')
+('Server Name is TC2 ', 'address is 192.168.10.32', 'and uptime is 6 days, 7:23:20.679512')
+('Server Name is TC3 ', 'address is 192.168.10.33', 'and uptime is 6 days, 23:52:06.736580')
+('Server Name is TC4 ', 'address is 192.168.10.34', 'and uptime is 7 days, 5:40:17.601147')
+('Server Name is CA1 ', 'address is 192.168.10.41', 'and uptime is 11 days, 0:52:16.637584')
+('Server Name is CA2 ', 'address is 192.168.10.42', 'and uptime is 19 days, 20:56:23.060110')
+('Server Name is TM1 ', 'address is 192.168.10.43', 'and uptime is 8 days, 0:48:10.034053')
+('Server Name is TM2 ', 'address is 192.168.10.44', 'and uptime is 19 days, 20:50:28.051668')
+('Server Name is TM3 ', 'address is 192.168.10.45', 'and uptime is 42 days, 5:54:40.605204')
+('Server Name is TM4 ', 'address is 192.168.10.46', 'and uptime is 19 days, 21:23:11.796491')
+('Server Name is TM5 ', 'address is 192.168.10.44', 'and uptime is 19 days, 20:51:52.443658')
+('Server Name is TM6 ', 'address is 192.168.10.44', 'and uptime is 19 days, 20:51:58.413260')
+('Server Name is DIVA1 ', 'address is 192.168.10.82', 'and uptime is 21 days, 0:35:46.843781')
+('Server Name is DIVA2 ', 'address is 192.168.10.83', 'and uptime is 22 days, 0:32:31.861271')
+('Server Name is QC1 ', 'address is 192.168.10.61', 'and uptime is 46 days, 0:53:31.058865')
+('Server Name is QC2 ', 'address is 192.168.10.62', 'and uptime is 141 days, 5:27:20.102441')
+('Server Name is IF1 ', 'address is 192.168.20.32', 'and uptime is 250 days, 5:59:23.256963')
+('Server Name is IF2 ', 'address is 192.168.20.33', 'and uptime is 18 days, 23:51:44.027994')
+('Server Name is AD1 ', 'address is 192.168.20.12', 'and uptime is 250 days, 6:07:40.194323')
+('Server Name is AD2 ', 'address is 192.168.20.13', 'and uptime is 258 days, 5:29:37.076757')
+('Server Name is SH1 ', 'address is 192.168.20.22', 'and uptime is 231 days, 5:20:48.410678')
+('Server Name is SH2 ', 'address is 192.168.20.23', 'and uptime is 78 days, 6:40:26.310134')
+('Server Name is WAS1 ', 'address is 192.168.30.12', 'and uptime is 38 days, 5:13:51.049071')
+('Server Name is WAS2 ', 'address is 192.168.30.13', 'and uptime is 111 days, 5:45:48.448600')
+
+
